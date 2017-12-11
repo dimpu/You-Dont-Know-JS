@@ -15,7 +15,7 @@ Please feel free to contribute to the quality of this content by submitting PR's
 
 ## Titles
 
-* Read online (free!): ["Up & Going"](up-and-going/README.md), Published: [Buy Now](http://www.ebooks.com/1993212/you-don-t-know-js-up-going/simpson-kyle/) in print, but the ebook format is free!
+* Read online (free!): ["Up & Going"](/up-and-going/README.md), Published: [Buy Now](http://www.ebooks.com/1993212/you-don-t-know-js-up-going/simpson-kyle/) in print, but the ebook format is free!
 * Read online (free!): ["Scope & Closures"](scope-and-closures/README.md#you-dont-know-js-scope--closures), Published: [Buy Now](http://www.ebooks.com/1647631/you-don-t-know-js-scope-closures/simpson-kyle/)
 * Read online (free!): ["this & Object Prototypes"](this-and-object-prototypes/README.md#you-dont-know-js-this--object-prototypes), Published: [Buy Now](http://www.ebooks.com/1734321/you-don-t-know-js-this-object-prototypes/simpson-kyle/)
 * Read online (free!): ["Types & Grammar"](types-and-grammar/README.md#you-dont-know-js-types--grammar), Published: [Buy Now](http://www.ebooks.com/1935541/you-don-t-know-js-types-grammar/simpson-kyle/)
